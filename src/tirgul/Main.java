@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		Student s1 = new Student(11, "Zagu");
+		Student s2 = new Student(22, "Dana");
 	}
 
 }
