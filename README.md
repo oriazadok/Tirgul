@@ -24,7 +24,7 @@ git commit
 ```
 
 
-![class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/oriazadok/Tirgul/blob/master/test.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/oriazadok/Tirgul/blob/master/test.puml)
 
 @startuml
 class A {
