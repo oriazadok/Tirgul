@@ -23,6 +23,8 @@ git add
 git commit
 ```
 
+![class Diagram](https://github.com/oriazadok/Tirgul/blob/master/test.puml)
+
 @startuml
 class A {
 {static} int counter
