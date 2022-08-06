@@ -21,7 +21,7 @@ git add
 git commit
 ```
 
-![finally](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/oriazadok/Tirgul/master/test.puml)
+![finally](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oriazadok/Tirgul/master/test.puml)
 
 
 
