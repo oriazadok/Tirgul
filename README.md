@@ -22,7 +22,6 @@ git status
 git add
 git commit
 ```
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Zingam/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
 
 
 ![class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/oriazadok/Tirgul/blob/master/test.puml)
