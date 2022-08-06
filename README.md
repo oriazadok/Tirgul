@@ -24,9 +24,8 @@ git commit
 ```
 
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/oriazadok/Tirgul/master/test.puml)
+![finallyyyyyyyyyyyyyyyyyyyy](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/oriazadok/Tirgul/master/test.puml)
 
-https://github.com/jonashackt/plantuml-markdown/blob/master/example-uml.iuml
 
 @startuml
 class A {
