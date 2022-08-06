@@ -1,10 +1,13 @@
 @startuml
-actor client
-node app
-node car
-node tshirt
 
-car -> app
-app -> client
-client -> tshirt
+Instance <|-- VulkanRootObject
+
+class Instance {
+    -- Contructors & destructors --
+    - Instance()
+    
+    -- Public methods --
+    + Initialize() : bool
+}
+
 @enduml
