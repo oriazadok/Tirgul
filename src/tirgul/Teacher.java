@@ -29,5 +29,6 @@ public class Teacher {
 	
 	public String toString() {
 		return this.id + this.name;
+		
 	}
 }
