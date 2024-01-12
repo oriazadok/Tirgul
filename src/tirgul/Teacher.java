@@ -17,7 +17,7 @@ public class Teacher {
 	}
 	
 	public String getName() {
-		return this.name;
+		return "my name is: " + this.name;
 	}
 
 	public String getLastname() {
