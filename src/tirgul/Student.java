@@ -19,6 +19,6 @@ public class Student {
 	}
 	
 	public String toString() {
-		return this.id + this.name;
+		return "my id is: " + this.id + this.name;
 	}
 }
