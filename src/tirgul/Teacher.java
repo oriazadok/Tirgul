@@ -4,6 +4,7 @@ public class Teacher {
 
 	private int id;
 	private String name;
+	private double rate;
 	
 	public Teacher(int id, String name) {
 		this.id = id;
@@ -16,6 +17,10 @@ public class Teacher {
 	
 	public String getName() {
 		return this.name;
+	}
+
+	public double getRate() {
+		return this.rate;
 	}
 	
 	public String toString() {
