@@ -7,6 +7,9 @@ public class Main {
 
 		Student s1 = new Student(11, "Zagu");
 		Student s2 = new Student(22, "Dana");
+
+		System.out.println(s1);
+		System.out.println(s1);
 	}
 
 }
